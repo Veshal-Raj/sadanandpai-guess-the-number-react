@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#num-input {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  width: 15rem;
+}
+
+#start-btn {
+  padding: 10px 16px;
+  background-color: #0ff;
+  border: 1px solid grey;
+  border-radius: 4px;
+}
